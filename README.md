@@ -14,11 +14,11 @@
 | Ridership - Chicago | RTAM | https://rtams.org/ridership |
 
 ## EU
-| Data     | Source | web link or API |
+| Data     | Source | web link or API | Repo |
 | ----------- | ----------- | ----------- |
-| Pari Traffic | RATP | https://data.ratp.fr/explore/?sort=modified |
-| London Ridership | London Government | https://data.london.gov.uk/dataset/london-underground-performance-reports |
-| Greece Traffic | Private | https://open-traffic.epfl.ch/ |
+| Pari Traffic | RATP | https://data.ratp.fr/explore/?sort=modified | |
+| London Ridership | London Government | https://data.london.gov.uk/dataset/london-underground-performance-reports | |
+| Greece Traffic | Private | https://open-traffic.epfl.ch/ | https://github.com/tud-hri/travia |
  
 ## China
 | Data     | Source | web link or API |
