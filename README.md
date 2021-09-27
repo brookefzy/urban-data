@@ -1,5 +1,5 @@
 # urban-data
-## 1. API
+## US
 | Data     | Source | API |
 | ----------- | ----------- | ----------- |
 | American Community Survey | US census | https://www.census.gov/data/developers/data-sets/acs-5year.html |
@@ -10,4 +10,17 @@
 | Health 500 cities dictionary | cdc | https://services3.arcgis.com/ZvidGQkLaDJxRSJ2/arcgis/rest/services/500Cities_allMeasures_2017/FeatureServer/3 |
 | Transportation Survey | BTS | https://www.bts.gov/sites/bts.dot.gov/files/nhts2017/latch_2017-b.csv|
 | Park in the US | National Park and Recreation | https://www.arcgis.com/home/item.html?id=578968f975774d3fab79fe56c8c90941|
+| Ridership - NYC | MTA | http://web.mta.info/developers/turnstile.html |
+| Ridership - Chicago | RTAM | https://rtams.org/ridership |
 
+## EU
+| Data     | Source | web link or API |
+| ----------- | ----------- | ----------- |
+| Pari Traffic | RATP | https://data.ratp.fr/explore/?sort=modified |
+| London Ridership | London Government | https://data.london.gov.uk/dataset/london-underground-performance-reports |
+| Greece Traffic | Private | https://open-traffic.epfl.ch/ |
+ 
+## China
+| Data     | Source | web link or API |
+| ----------- | ----------- | ----------- |
+| Traffic Flow | Tongji | http://tjrdts.linknova.cn/#/dashboard |
