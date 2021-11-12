@@ -12,6 +12,7 @@
 | Park in the US | National Park and Recreation | https://www.arcgis.com/home/item.html?id=578968f975774d3fab79fe56c8c90941|
 | Ridership - NYC | MTA | http://web.mta.info/developers/turnstile.html |
 | Ridership - Chicago | RTAM | https://rtams.org/ridership |
+| State- County - Projection | | https://gist.githubusercontent.com/fitnr/10795511/raw/7468f4fca23631019644bd18f1aa5dfc69ed1b1a/county-epsg.csv |
 
 ## EU
 | Data     | Source | web link or API | Repo |
