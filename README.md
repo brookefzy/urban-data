@@ -14,9 +14,14 @@
 | Ridership - Chicago | RTAM | https://rtams.org/ridership |
 | State- County - Projection | | https://gist.githubusercontent.com/fitnr/10795511/raw/7468f4fca23631019644bd18f1aa5dfc69ed1b1a/county-epsg.csv |
 
+## World
+| Data     | Source | API |
+| ----------- | ----------- | ----------- |
+|Global Human Settlement Layer| https://ghsl.jrc.ec.europa.eu/ghs_smod2019.php | |
+
 ## EU
 | Data     | Source | web link or API | Repo |
-| ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- |----------- |
 | Pari Traffic | RATP | https://data.ratp.fr/explore/?sort=modified | |
 | London Ridership | London Government | https://data.london.gov.uk/dataset/london-underground-performance-reports | |
 | Greece Traffic | Private | https://open-traffic.epfl.ch/ | https://github.com/tud-hri/travia |
